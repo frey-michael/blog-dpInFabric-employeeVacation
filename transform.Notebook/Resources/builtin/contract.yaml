@@ -1,0 +1,11 @@
+tables:
+- name: employee_vacation
+- columns:
+  - name: First_Name
+    type: string
+  - name: Surname
+    type: string
+  - name: Year
+    type: int
+  - name: Vacation_Days
+    type: long
