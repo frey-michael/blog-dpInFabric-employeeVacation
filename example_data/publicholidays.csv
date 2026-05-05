@@ -1,0 +1,1001 @@
+countryOrRegion,holidayName,normalizeHolidayName,isPaidTimeOff,countryRegionCode,date
+Australia,New Year's Day,New Year's Day,,AU,1975-01-01 00:00:00
+Canada,New Year's Day,New Year's Day,,CA,1975-01-01 00:00:00
+Ireland,New Year's Day,New Year's Day,,IE,1975-01-01 00:00:00
+Isle of Man,New Year's Day,New Year's Day,,IM,1975-01-01 00:00:00
+New Zealand,New Year's Day,New Year's Day,,NZ,1975-01-01 00:00:00
+South Africa,New Year's Day,New Year's Day,,ZA,1975-01-01 00:00:00
+United Kingdom,New Year's Day,New Year's Day,,GB,1975-01-01 00:00:00
+United States,New Year's Day,New Year's Day,,US,1975-01-01 00:00:00
+Australia,New Year's Day,New Year's Day,,AU,1976-01-01 00:00:00
+Canada,New Year's Day,New Year's Day,,CA,1976-01-01 00:00:00
+Ireland,New Year's Day,New Year's Day,,IE,1976-01-01 00:00:00
+Isle of Man,New Year's Day,New Year's Day,,IM,1976-01-01 00:00:00
+New Zealand,New Year's Day,New Year's Day,,NZ,1976-01-01 00:00:00
+South Africa,New Year's Day,New Year's Day,,ZA,1976-01-01 00:00:00
+United Kingdom,New Year's Day,New Year's Day,,GB,1976-01-01 00:00:00
+United States,New Year's Day,New Year's Day,,US,1976-01-01 00:00:00
+Australia,New Year's Day,New Year's Day,,AU,1970-01-01 00:00:00
+Australia,New Year's Day,New Year's Day,,AU,1971-01-01 00:00:00
+New Zealand,New Year's Day,New Year's Day,,NZ,1971-01-01 00:00:00
+South Africa,New Year's Day,New Year's Day,,ZA,1971-01-01 00:00:00
+Canada,New Year's Day,New Year's Day,,CA,1972-01-01 00:00:00
+New Zealand,New Year's Day,New Year's Day,,NZ,1972-01-01 00:00:00
+South Africa,New Year's Day,New Year's Day,,ZA,1972-01-01 00:00:00
+New Zealand,New Year's Day (Observed),New Year's Day,,NZ,1972-01-03 00:00:00
+Australia,New Year's Day,New Year's Day,,AU,1973-01-01 00:00:00
+Canada,New Year's Day,New Year's Day,,CA,1973-01-01 00:00:00
+New Zealand,New Year's Day,New Year's Day,true,NZ,1973-01-01 00:00:00
+South Africa,New Year's Day,New Year's Day,,ZA,1973-01-01 00:00:00
+Canada,New Year's Day,New Year's Day,,CA,1974-01-01 00:00:00
+Ireland,New Year's Day,New Year's Day,true,IE,1974-01-01 00:00:00
+Isle of Man,New Year's Day,New Year's Day,,IM,1974-01-01 00:00:00
+New Zealand,New Year's Day,New Year's Day,,NZ,1974-01-01 00:00:00
+South Africa,New Year's Day,New Year's Day,,ZA,1974-01-01 00:00:00
+Canada,New Year's Day (Observed),New Year's Day,,CA,1976-12-31 00:00:00
+Ireland,New Year's Day,New Year's Day,,IE,1977-01-01 00:00:00
+Isle of Man,New Year's Day,New Year's Day,,IM,1977-01-01 00:00:00
+South Africa,New Year's Day,New Year's Day,,ZA,1977-01-01 00:00:00
+Ireland,New Year's Day (Observed),New Year's Day,,IE,1977-01-03 00:00:00
+Isle of Man,New Year's Day (Observed),New Year's Day,,IM,1977-01-03 00:00:00
+New Zealand,New Year's Day (Observed),New Year's Day,,NZ,1977-01-03 00:00:00
+Canada,New Year's Day,New Year's Day,,CA,1978-01-01 00:00:00
+Ireland,New Year's Day,New Year's Day,true,IE,1978-01-01 00:00:00
+Isle of Man,New Year's Day,New Year's Day,,IM,1978-01-01 00:00:00
+South Africa,New Year's Day,New Year's Day,,ZA,1978-01-01 00:00:00
+United Kingdom,New Year's Day,New Year's Day,,GB,1978-01-01 00:00:00
+Australia,New Year's Day (Observed),New Year's Day,,AU,1978-01-02 00:00:00
+Canada,New Year's Day (Observed),New Year's Day,,CA,1978-01-02 00:00:00
+Ireland,New Year's Day (Observed),New Year's Day,,IE,1978-01-02 00:00:00
+New Zealand,New Year's Day (Observed),New Year's Day,true,NZ,1978-01-03 00:00:00
+United States,New Year's Day,New Year's Day,,US,1970-01-01 00:00:00
+United States,New Year's Day,New Year's Day,,US,1971-01-01 00:00:00
+United States,New Year's Day (Observed),New Year's Day,,US,1971-12-31 00:00:00
+United States,New Year's Day,New Year's Day,,US,1972-01-01 00:00:00
+United States,New Year's Day,New Year's Day,,US,1974-01-01 00:00:00
+United States,New Year's Day (Observed),New Year's Day,,US,1976-12-31 00:00:00
+United States,New Year's Day,New Year's Day,,US,1977-01-01 00:00:00
+United States,New Year's Day (Observed),New Year's Day,,US,1978-01-02 00:00:00
+Finland,Uudenvuodenpäivä,Uudenvuodenpäivä,,FI,1970-01-01 00:00:00
+Finland,Uudenvuodenpäivä,Uudenvuodenpäivä,,FI,1971-01-01 00:00:00
+Finland,Uudenvuodenpäivä,Uudenvuodenpäivä,,FI,1972-01-01 00:00:00
+Finland,Uudenvuodenpäivä,Uudenvuodenpäivä,,FI,1973-01-01 00:00:00
+Finland,Uudenvuodenpäivä,Uudenvuodenpäivä,,FI,1974-01-01 00:00:00
+Finland,Uudenvuodenpäivä,Uudenvuodenpäivä,,FI,1975-01-01 00:00:00
+Finland,Uudenvuodenpäivä,Uudenvuodenpäivä,true,FI,1976-01-01 00:00:00
+Finland,Uudenvuodenpäivä,Uudenvuodenpäivä,,FI,1978-01-01 00:00:00
+Finland,Loppiainen,Loppiainen,,FI,1970-01-06 00:00:00
+Finland,Pitkäperjantai,Pitkäperjantai,,FI,1970-03-27 00:00:00
+Finland,Pääsiäispäivä,Pääsiäispäivä,,FI,1970-03-29 00:00:00
+Finland,Vappu,Vappu,,FI,1970-05-01 00:00:00
+Finland,Helatorstai,Helatorstai,,FI,1970-05-07 00:00:00
+Finland,Helluntaipäivä,Helluntaipäivä,,FI,1970-05-17 00:00:00
+Finland,Juhannusaatto,Juhannusaatto,,FI,1970-06-19 00:00:00
+Finland,Itsenäisyyspäivä,Itsenäisyyspäivä,,FI,1970-12-06 00:00:00
+Finland,Jouluaatto,Jouluaatto,true,FI,1970-12-24 00:00:00
+Finland,Joulupäivä,Joulupäivä,,FI,1970-12-25 00:00:00
+Finland,Loppiainen,Loppiainen,,FI,1971-01-06 00:00:00
+Finland,Pitkäperjantai,Pitkäperjantai,,FI,1971-04-09 00:00:00
+Finland,Vappu,Vappu,,FI,1971-05-01 00:00:00
+Finland,Helatorstai,Helatorstai,,FI,1971-05-20 00:00:00
+Finland,Helluntaipäivä,Helluntaipäivä,,FI,1971-05-30 00:00:00
+Finland,Juhannusaatto,Juhannusaatto,,FI,1971-06-25 00:00:00
+Finland,Pyhäinpäivä,Pyhäinpäivä,,FI,1971-11-06 00:00:00
+Finland,Itsenäisyyspäivä,Itsenäisyyspäivä,,FI,1971-12-06 00:00:00
+Finland,Tapaninpäivä,Tapaninpäivä,,FI,1971-12-26 00:00:00
+Finland,Pitkäperjantai,Pitkäperjantai,,FI,1972-03-31 00:00:00
+Finland,Pääsiäispäivä,Pääsiäispäivä,,FI,1972-04-02 00:00:00
+Finland,Vappu,Vappu,,FI,1972-05-01 00:00:00
+Finland,Helatorstai,Helatorstai,,FI,1972-05-11 00:00:00
+Finland,Juhannusaatto,Juhannusaatto,,FI,1972-06-23 00:00:00
+Finland,Juhannuspäivä,Juhannuspäivä,,FI,1972-06-24 00:00:00
+Finland,Pyhäinpäivä,Pyhäinpäivä,,FI,1972-11-04 00:00:00
+Finland,Joulupäivä,Joulupäivä,,FI,1972-12-25 00:00:00
+Finland,Loppiainen,Loppiainen,,FI,1973-01-06 00:00:00
+Finland,Pitkäperjantai,Pitkäperjantai,,FI,1973-04-20 00:00:00
+Finland,Pääsiäispäivä,Pääsiäispäivä,,FI,1973-04-22 00:00:00
+Finland,2. pääsiäispäivä,2. pääsiäispäivä,,FI,1973-04-23 00:00:00
+Finland,Helluntaipäivä,Helluntaipäivä,,FI,1973-06-10 00:00:00
+Finland,Juhannusaatto,Juhannusaatto,,FI,1973-06-22 00:00:00
+Finland,Juhannuspäivä,Juhannuspäivä,,FI,1973-06-23 00:00:00
+Finland,Itsenäisyyspäivä,Itsenäisyyspäivä,,FI,1973-12-06 00:00:00
+Finland,Tapaninpäivä,Tapaninpäivä,,FI,1973-12-26 00:00:00
+Finland,Loppiainen,Loppiainen,,FI,1974-01-06 00:00:00
+Finland,Pääsiäispäivä,Pääsiäispäivä,,FI,1974-04-14 00:00:00
+Finland,Vappu,Vappu,,FI,1974-05-01 00:00:00
+Finland,Helatorstai,Helatorstai,true,FI,1974-05-23 00:00:00
+Finland,Helluntaipäivä,Helluntaipäivä,,FI,1974-06-02 00:00:00
+Finland,Juhannusaatto,Juhannusaatto,,FI,1974-06-21 00:00:00
+Finland,Pyhäinpäivä,Pyhäinpäivä,,FI,1974-11-02 00:00:00
+Finland,Itsenäisyyspäivä,Itsenäisyyspäivä,,FI,1974-12-06 00:00:00
+Finland,Jouluaatto,Jouluaatto,,FI,1974-12-24 00:00:00
+Finland,Joulupäivä,Joulupäivä,,FI,1974-12-25 00:00:00
+Finland,Tapaninpäivä,Tapaninpäivä,,FI,1974-12-26 00:00:00
+Finland,Loppiainen,Loppiainen,,FI,1975-01-06 00:00:00
+Finland,Pitkäperjantai,Pitkäperjantai,,FI,1975-03-28 00:00:00
+Finland,Pääsiäispäivä,Pääsiäispäivä,,FI,1975-03-30 00:00:00
+Finland,Vappu,Vappu,,FI,1975-05-01 00:00:00
+Finland,Helatorstai,Helatorstai,,FI,1975-05-08 00:00:00
+Finland,Helluntaipäivä,Helluntaipäivä,,FI,1975-05-18 00:00:00
+Finland,Juhannusaatto,Juhannusaatto,,FI,1975-06-20 00:00:00
+Finland,Pyhäinpäivä,Pyhäinpäivä,,FI,1975-11-01 00:00:00
+Finland,Itsenäisyyspäivä,Itsenäisyyspäivä,,FI,1975-12-06 00:00:00
+Finland,Jouluaatto,Jouluaatto,,FI,1975-12-24 00:00:00
+Finland,Joulupäivä,Joulupäivä,,FI,1975-12-25 00:00:00
+Finland,Tapaninpäivä,Tapaninpäivä,,FI,1975-12-26 00:00:00
+Finland,Pitkäperjantai,Pitkäperjantai,,FI,1976-04-16 00:00:00
+Finland,Pääsiäispäivä,Pääsiäispäivä,,FI,1976-04-18 00:00:00
+Finland,2. pääsiäispäivä,2. pääsiäispäivä,,FI,1976-04-19 00:00:00
+Finland,Helluntaipäivä,Helluntaipäivä,,FI,1976-06-06 00:00:00
+Finland,Juhannuspäivä,Juhannuspäivä,,FI,1976-06-26 00:00:00
+Finland,Pyhäinpäivä,Pyhäinpäivä,,FI,1976-11-06 00:00:00
+Finland,Jouluaatto,Jouluaatto,,FI,1976-12-24 00:00:00
+Finland,Joulupäivä,Joulupäivä,,FI,1976-12-25 00:00:00
+Finland,Tapaninpäivä,Tapaninpäivä,,FI,1976-12-26 00:00:00
+Finland,Loppiainen,Loppiainen,,FI,1977-01-06 00:00:00
+Finland,Pitkäperjantai,Pitkäperjantai,,FI,1977-04-08 00:00:00
+Finland,Pääsiäispäivä,Pääsiäispäivä,,FI,1977-04-10 00:00:00
+Finland,2. pääsiäispäivä,2. pääsiäispäivä,,FI,1977-04-11 00:00:00
+Finland,Vappu,Vappu,,FI,1977-05-01 00:00:00
+Finland,Helatorstai,Helatorstai,,FI,1977-05-19 00:00:00
+Finland,Helluntaipäivä,Helluntaipäivä,,FI,1977-05-29 00:00:00
+Finland,Juhannuspäivä,Juhannuspäivä,,FI,1977-06-25 00:00:00
+Finland,Pyhäinpäivä,Pyhäinpäivä,true,FI,1977-11-05 00:00:00
+Finland,Itsenäisyyspäivä,Itsenäisyyspäivä,,FI,1977-12-06 00:00:00
+Finland,Jouluaatto,Jouluaatto,,FI,1977-12-24 00:00:00
+Finland,Tapaninpäivä,Tapaninpäivä,,FI,1977-12-26 00:00:00
+Italy,Pasqua di Resurrezione,Pasqua di Resurrezione,,IT,1970-03-29 00:00:00
+Italy,Festa della Liberazione,Festa della Liberazione,,IT,1970-04-25 00:00:00
+Italy,Assunzione della Vergine,Assunzione della Vergine,,IT,1970-08-15 00:00:00
+Italy,Tutti i Santi,Tutti i Santi,,IT,1970-11-01 00:00:00
+Italy,Immacolata Concezione,Immacolata Concezione,,IT,1970-12-08 00:00:00
+Italy,Natale,Natale,,IT,1970-12-25 00:00:00
+Italy,Epifania del Signore,Epifania del Signore,,IT,1971-01-06 00:00:00
+Italy,Lunedì dell'Angelo,Lunedì dell'Angelo,,IT,1971-04-12 00:00:00
+Italy,Festa della Liberazione,Festa della Liberazione,,IT,1971-04-25 00:00:00
+Italy,Festa della Repubblica,Festa della Repubblica,,IT,1971-06-02 00:00:00
+Italy,Assunzione della Vergine,Assunzione della Vergine,,IT,1971-08-15 00:00:00
+Italy,Tutti i Santi,Tutti i Santi,,IT,1971-11-01 00:00:00
+Italy,Immacolata Concezione,Immacolata Concezione,,IT,1971-12-08 00:00:00
+Italy,Natale,Natale,,IT,1971-12-25 00:00:00
+Italy,Epifania del Signore,Epifania del Signore,,IT,1972-01-06 00:00:00
+Italy,Lunedì dell'Angelo,Lunedì dell'Angelo,,IT,1972-04-03 00:00:00
+Italy,Festa della Liberazione,Festa della Liberazione,,IT,1972-04-25 00:00:00
+Italy,Festa dei Lavoratori,Festa dei Lavoratori,,IT,1972-05-01 00:00:00
+Italy,Festa della Repubblica,Festa della Repubblica,,IT,1972-06-02 00:00:00
+Italy,Tutti i Santi,Tutti i Santi,,IT,1972-11-01 00:00:00
+Italy,Immacolata Concezione,Immacolata Concezione,,IT,1972-12-08 00:00:00
+Italy,Natale,Natale,,IT,1972-12-25 00:00:00
+Italy,Santo Stefano,Santo Stefano,,IT,1972-12-26 00:00:00
+Italy,Capodanno,Capodanno,,IT,1973-01-01 00:00:00
+Italy,Pasqua di Resurrezione,Pasqua di Resurrezione,,IT,1973-04-22 00:00:00
+Italy,Lunedì dell'Angelo,Lunedì dell'Angelo,,IT,1973-04-23 00:00:00
+Italy,Festa dei Lavoratori,Festa dei Lavoratori,,IT,1973-05-01 00:00:00
+Italy,Festa della Repubblica,Festa della Repubblica,true,IT,1973-06-02 00:00:00
+Italy,Tutti i Santi,Tutti i Santi,,IT,1973-11-01 00:00:00
+Italy,Immacolata Concezione,Immacolata Concezione,,IT,1973-12-08 00:00:00
+Italy,Natale,Natale,,IT,1973-12-25 00:00:00
+Italy,Santo Stefano,Santo Stefano,,IT,1973-12-26 00:00:00
+Italy,Epifania del Signore,Epifania del Signore,,IT,1974-01-06 00:00:00
+Italy,Pasqua di Resurrezione,Pasqua di Resurrezione,,IT,1974-04-14 00:00:00
+Italy,Lunedì dell'Angelo,Lunedì dell'Angelo,,IT,1974-04-15 00:00:00
+Italy,Festa della Liberazione,Festa della Liberazione,,IT,1974-04-25 00:00:00
+Italy,Festa della Repubblica,Festa della Repubblica,,IT,1974-06-02 00:00:00
+Italy,Immacolata Concezione,Immacolata Concezione,,IT,1974-12-08 00:00:00
+Italy,Natale,Natale,,IT,1974-12-25 00:00:00
+Italy,Santo Stefano,Santo Stefano,,IT,1974-12-26 00:00:00
+Italy,Capodanno,Capodanno,,IT,1975-01-01 00:00:00
+Italy,Lunedì dell'Angelo,Lunedì dell'Angelo,,IT,1975-03-31 00:00:00
+Italy,Festa della Liberazione,Festa della Liberazione,,IT,1975-04-25 00:00:00
+Italy,Festa della Repubblica,Festa della Repubblica,,IT,1975-06-02 00:00:00
+Italy,Assunzione della Vergine,Assunzione della Vergine,,IT,1975-08-15 00:00:00
+Italy,Tutti i Santi,Tutti i Santi,,IT,1975-11-01 00:00:00
+Italy,Immacolata Concezione,Immacolata Concezione,,IT,1975-12-08 00:00:00
+Italy,Santo Stefano,Santo Stefano,,IT,1975-12-26 00:00:00
+Italy,Capodanno,Capodanno,,IT,1976-01-01 00:00:00
+Italy,Epifania del Signore,Epifania del Signore,,IT,1976-01-06 00:00:00
+Italy,Pasqua di Resurrezione,Pasqua di Resurrezione,,IT,1976-04-18 00:00:00
+Italy,Lunedì dell'Angelo,Lunedì dell'Angelo,,IT,1976-04-19 00:00:00
+Italy,Festa della Liberazione,Festa della Liberazione,,IT,1976-04-25 00:00:00
+Italy,Festa dei Lavoratori,Festa dei Lavoratori,,IT,1976-05-01 00:00:00
+Italy,Festa della Repubblica,Festa della Repubblica,,IT,1976-06-02 00:00:00
+Italy,Assunzione della Vergine,Assunzione della Vergine,,IT,1976-08-15 00:00:00
+Italy,Tutti i Santi,Tutti i Santi,,IT,1976-11-01 00:00:00
+Italy,Immacolata Concezione,Immacolata Concezione,,IT,1976-12-08 00:00:00
+Italy,Santo Stefano,Santo Stefano,,IT,1976-12-26 00:00:00
+Italy,Capodanno,Capodanno,,IT,1977-01-01 00:00:00
+Italy,Epifania del Signore,Epifania del Signore,,IT,1977-01-06 00:00:00
+Italy,Festa della Liberazione,Festa della Liberazione,,IT,1977-04-25 00:00:00
+Italy,Festa dei Lavoratori,Festa dei Lavoratori,,IT,1977-05-01 00:00:00
+Italy,Festa della Repubblica,Festa della Repubblica,,IT,1977-06-02 00:00:00
+Italy,Assunzione della Vergine,Assunzione della Vergine,,IT,1977-08-15 00:00:00
+Italy,Natale,Natale,,IT,1977-12-25 00:00:00
+Italy,Santo Stefano,Santo Stefano,,IT,1977-12-26 00:00:00
+Italy,Capodanno,Capodanno,,IT,1978-01-01 00:00:00
+Italy,Epifania del Signore,Epifania del Signore,,IT,1978-01-06 00:00:00
+Sweden,Annandag pingst,Annandag pingst,,SE,1970-05-18 00:00:00
+Sweden,Annandag pingst,Annandag pingst,,SE,1971-05-31 00:00:00
+Sweden,Annandag pingst,Annandag pingst,,SE,1972-05-22 00:00:00
+Sweden,Annandag pingst,Annandag pingst,,SE,1973-06-11 00:00:00
+Sweden,Annandag pingst,Annandag pingst,,SE,1974-06-03 00:00:00
+Sweden,Annandag pingst,Annandag pingst,,SE,1975-05-19 00:00:00
+Sweden,Annandag pingst,Annandag pingst,,SE,1976-06-07 00:00:00
+Sweden,Annandag pingst,Annandag pingst,,SE,1977-05-30 00:00:00
+Sweden,Nyårsdagen,Nyårsdagen,,SE,1970-01-01 00:00:00
+Sweden,Trettondedag jul,Trettondedag jul,,SE,1970-01-06 00:00:00
+Sweden,Långfredagen,Långfredagen,,SE,1970-03-27 00:00:00
+Sweden,Annandag påsk,Annandag påsk,,SE,1970-03-30 00:00:00
+Sweden,Första maj,Första maj,,SE,1970-05-01 00:00:00
+Sweden,Kristi himmelsfärdsdag,Kristi himmelsfärdsdag,,SE,1970-05-07 00:00:00
+Sweden,Midsommarafton,Midsommarafton,,SE,1970-06-19 00:00:00
+Sweden,Midsommardagen,Midsommardagen,true,SE,1970-06-20 00:00:00
+Sweden,Julafton,Julafton,,SE,1970-12-24 00:00:00
+Sweden,Nyårsafton,Nyårsafton,,SE,1970-12-31 00:00:00
+Sweden,Nyårsdagen,Nyårsdagen,,SE,1971-01-01 00:00:00
+Sweden,Trettondedag jul,Trettondedag jul,,SE,1971-01-06 00:00:00
+Sweden,Långfredagen,Långfredagen,,SE,1971-04-09 00:00:00
+Sweden,"Påskdagen, Söndag","Påskdagen, Söndag",,SE,1971-04-11 00:00:00
+Sweden,Annandag påsk,Annandag påsk,,SE,1971-04-12 00:00:00
+Sweden,"Pingstdagen, Söndag","Pingstdagen, Söndag",,SE,1971-05-30 00:00:00
+Sweden,Midsommarafton,Midsommarafton,,SE,1971-06-25 00:00:00
+Sweden,Midsommardagen,Midsommardagen,,SE,1971-06-26 00:00:00
+Sweden,Alla helgons dag,Alla helgons dag,,SE,1971-11-06 00:00:00
+Sweden,Julafton,Julafton,,SE,1971-12-24 00:00:00
+Sweden,Juldagen,Juldagen,,SE,1971-12-25 00:00:00
+Sweden,"Annandag jul, Söndag","Annandag jul, Söndag",,SE,1971-12-26 00:00:00
+Sweden,Långfredagen,Långfredagen,,SE,1972-03-31 00:00:00
+Sweden,"Påskdagen, Söndag","Påskdagen, Söndag",,SE,1972-04-02 00:00:00
+Sweden,Kristi himmelsfärdsdag,Kristi himmelsfärdsdag,,SE,1972-05-11 00:00:00
+Sweden,"Pingstdagen, Söndag","Pingstdagen, Söndag",,SE,1972-05-21 00:00:00
+Sweden,Midsommarafton,Midsommarafton,,SE,1972-06-23 00:00:00
+Sweden,Midsommardagen,Midsommardagen,,SE,1972-06-24 00:00:00
+Sweden,Alla helgons dag,Alla helgons dag,,SE,1972-11-04 00:00:00
+Sweden,"Julafton, Söndag","Julafton, Söndag",,SE,1972-12-24 00:00:00
+Sweden,Annandag jul,Annandag jul,,SE,1972-12-26 00:00:00
+Sweden,"Nyårsafton, Söndag","Nyårsafton, Söndag",,SE,1972-12-31 00:00:00
+Sweden,Nyårsdagen,Nyårsdagen,,SE,1973-01-01 00:00:00
+Sweden,Trettondedag jul,Trettondedag jul,,SE,1973-01-06 00:00:00
+Sweden,Långfredagen,Långfredagen,,SE,1973-04-20 00:00:00
+Sweden,"Påskdagen, Söndag","Påskdagen, Söndag",,SE,1973-04-22 00:00:00
+Sweden,Annandag påsk,Annandag påsk,true,SE,1973-04-23 00:00:00
+Sweden,Första maj,Första maj,true,SE,1973-05-01 00:00:00
+Sweden,Kristi himmelsfärdsdag,Kristi himmelsfärdsdag,,SE,1973-05-31 00:00:00
+Sweden,"Pingstdagen, Söndag","Pingstdagen, Söndag",,SE,1973-06-10 00:00:00
+Sweden,Midsommarafton,Midsommarafton,,SE,1973-06-22 00:00:00
+Sweden,Alla helgons dag,Alla helgons dag,,SE,1973-11-03 00:00:00
+Sweden,Julafton,Julafton,,SE,1973-12-24 00:00:00
+Sweden,Annandag jul,Annandag jul,,SE,1973-12-26 00:00:00
+Sweden,Nyårsdagen,Nyårsdagen,,SE,1974-01-01 00:00:00
+Sweden,"Trettondedag jul, Söndag","Trettondedag jul, Söndag",,SE,1974-01-06 00:00:00
+Sweden,Långfredagen,Långfredagen,,SE,1974-04-12 00:00:00
+Sweden,Annandag påsk,Annandag påsk,,SE,1974-04-15 00:00:00
+Sweden,Första maj,Första maj,true,SE,1974-05-01 00:00:00
+Sweden,Kristi himmelsfärdsdag,Kristi himmelsfärdsdag,,SE,1974-05-23 00:00:00
+Sweden,"Pingstdagen, Söndag","Pingstdagen, Söndag",,SE,1974-06-02 00:00:00
+Sweden,Midsommarafton,Midsommarafton,,SE,1974-06-21 00:00:00
+Sweden,Midsommardagen,Midsommardagen,,SE,1974-06-22 00:00:00
+Sweden,Alla helgons dag,Alla helgons dag,,SE,1974-11-02 00:00:00
+Sweden,Julafton,Julafton,,SE,1974-12-24 00:00:00
+Sweden,Juldagen,Juldagen,,SE,1974-12-25 00:00:00
+Sweden,Nyårsafton,Nyårsafton,,SE,1974-12-31 00:00:00
+Sweden,"Påskdagen, Söndag","Påskdagen, Söndag",,SE,1975-03-30 00:00:00
+Sweden,Annandag påsk,Annandag påsk,,SE,1975-03-31 00:00:00
+Sweden,Kristi himmelsfärdsdag,Kristi himmelsfärdsdag,,SE,1975-05-08 00:00:00
+Sweden,Midsommardagen,Midsommardagen,,SE,1975-06-21 00:00:00
+Sweden,Alla helgons dag,Alla helgons dag,,SE,1975-11-01 00:00:00
+Sweden,Julafton,Julafton,true,SE,1975-12-24 00:00:00
+Sweden,Annandag jul,Annandag jul,,SE,1975-12-26 00:00:00
+Sweden,Trettondedag jul,Trettondedag jul,,SE,1976-01-06 00:00:00
+Sweden,"Påskdagen, Söndag","Påskdagen, Söndag",,SE,1976-04-18 00:00:00
+Sweden,Första maj,Första maj,,SE,1976-05-01 00:00:00
+Sweden,"Pingstdagen, Söndag","Pingstdagen, Söndag",,SE,1976-06-06 00:00:00
+Sweden,Midsommarafton,Midsommarafton,,SE,1976-06-25 00:00:00
+Sweden,Midsommardagen,Midsommardagen,,SE,1976-06-26 00:00:00
+Sweden,Alla helgons dag,Alla helgons dag,,SE,1976-11-06 00:00:00
+Sweden,Juldagen,Juldagen,true,SE,1976-12-25 00:00:00
+Sweden,"Annandag jul, Söndag","Annandag jul, Söndag",,SE,1976-12-26 00:00:00
+Sweden,Annandag påsk,Annandag påsk,,SE,1977-04-11 00:00:00
+Sweden,"Första maj, Söndag","Första maj, Söndag",,SE,1977-05-01 00:00:00
+Sweden,Kristi himmelsfärdsdag,Kristi himmelsfärdsdag,,SE,1977-05-19 00:00:00
+Sweden,"Pingstdagen, Söndag","Pingstdagen, Söndag",,SE,1977-05-29 00:00:00
+Sweden,Midsommarafton,Midsommarafton,,SE,1977-06-24 00:00:00
+Sweden,Midsommardagen,Midsommardagen,,SE,1977-06-25 00:00:00
+Sweden,Julafton,Julafton,,SE,1977-12-24 00:00:00
+Sweden,Annandag jul,Annandag jul,,SE,1977-12-26 00:00:00
+Sweden,Nyårsafton,Nyårsafton,,SE,1977-12-31 00:00:00
+Sweden,"Nyårsdagen, Söndag","Nyårsdagen, Söndag",,SE,1978-01-01 00:00:00
+Japan,元日,元日,,JP,1970-01-01 00:00:00
+Japan,成人の日,成人の日,,JP,1970-01-15 00:00:00
+Japan,建国記念の日,建国記念の日,,JP,1970-02-11 00:00:00
+Japan,春分の日,春分の日,,JP,1970-03-21 00:00:00
+Japan,こどもの日,こどもの日,,JP,1970-05-05 00:00:00
+Japan,秋分の日,秋分の日,,JP,1970-09-23 00:00:00
+Japan,体育の日,体育の日,,JP,1970-10-10 00:00:00
+Japan,文化の日,文化の日,true,JP,1970-11-03 00:00:00
+Japan,勤労感謝の日,勤労感謝の日,,JP,1970-11-23 00:00:00
+Japan,元日,元日,,JP,1971-01-01 00:00:00
+Japan,成人の日,成人の日,,JP,1971-01-15 00:00:00
+Japan,建国記念の日,建国記念の日,,JP,1971-02-11 00:00:00
+Japan,天皇誕生日,天皇誕生日,,JP,1971-04-29 00:00:00
+Japan,憲法記念日,憲法記念日,,JP,1971-05-03 00:00:00
+Japan,こどもの日,こどもの日,,JP,1971-05-05 00:00:00
+Japan,敬老の日,敬老の日,,JP,1971-09-15 00:00:00
+Japan,秋分の日,秋分の日,,JP,1971-09-24 00:00:00
+Japan,文化の日,文化の日,true,JP,1971-11-03 00:00:00
+Japan,元日,元日,,JP,1972-01-01 00:00:00
+Japan,成人の日,成人の日,,JP,1972-01-15 00:00:00
+Japan,春分の日,春分の日,,JP,1972-03-20 00:00:00
+Japan,天皇誕生日,天皇誕生日,,JP,1972-04-29 00:00:00
+Japan,憲法記念日,憲法記念日,,JP,1972-05-03 00:00:00
+Japan,こどもの日,こどもの日,,JP,1972-05-05 00:00:00
+Japan,敬老の日,敬老の日,,JP,1972-09-15 00:00:00
+Japan,秋分の日,秋分の日,,JP,1972-09-23 00:00:00
+Japan,体育の日,体育の日,,JP,1972-10-10 00:00:00
+Japan,成人の日,成人の日,,JP,1973-01-15 00:00:00
+Japan,建国記念の日,建国記念の日,,JP,1973-02-11 00:00:00
+Japan,春分の日,春分の日,,JP,1973-03-21 00:00:00
+Japan,天皇誕生日,天皇誕生日,,JP,1973-04-29 00:00:00
+Japan,憲法記念日,憲法記念日,true,JP,1973-05-03 00:00:00
+Japan,こどもの日,こどもの日,,JP,1973-05-05 00:00:00
+Japan,敬老の日,敬老の日,,JP,1973-09-15 00:00:00
+Japan,秋分の日,秋分の日,,JP,1973-09-23 00:00:00
+Japan,体育の日,体育の日,,JP,1973-10-10 00:00:00
+Japan,文化の日,文化の日,,JP,1973-11-03 00:00:00
+Japan,勤労感謝の日,勤労感謝の日,,JP,1973-11-23 00:00:00
+Japan,元日,元日,,JP,1974-01-01 00:00:00
+Japan,憲法記念日,憲法記念日,,JP,1974-05-03 00:00:00
+Japan,こどもの日,こどもの日,,JP,1974-05-05 00:00:00
+Japan,敬老の日,敬老の日,,JP,1974-09-15 00:00:00
+Japan,振替休日,振替休日,,JP,1974-09-16 00:00:00
+Japan,体育の日,体育の日,,JP,1974-10-10 00:00:00
+Japan,文化の日,文化の日,,JP,1974-11-03 00:00:00
+Japan,勤労感謝の日,勤労感謝の日,,JP,1974-11-23 00:00:00
+Japan,元日,元日,,JP,1975-01-01 00:00:00
+Japan,成人の日,成人の日,,JP,1975-01-15 00:00:00
+Japan,建国記念の日,建国記念の日,,JP,1975-02-11 00:00:00
+Japan,春分の日,春分の日,,JP,1975-03-21 00:00:00
+Japan,憲法記念日,憲法記念日,,JP,1975-05-03 00:00:00
+Japan,秋分の日,秋分の日,,JP,1975-09-24 00:00:00
+Japan,体育の日,体育の日,,JP,1975-10-10 00:00:00
+Japan,文化の日,文化の日,,JP,1975-11-03 00:00:00
+Japan,勤労感謝の日,勤労感謝の日,,JP,1975-11-23 00:00:00
+Japan,振替休日,振替休日,,JP,1975-11-24 00:00:00
+Japan,元日,元日,,JP,1976-01-01 00:00:00
+Japan,成人の日,成人の日,,JP,1976-01-15 00:00:00
+Japan,建国記念の日,建国記念の日,,JP,1976-02-11 00:00:00
+Japan,春分の日,春分の日,,JP,1976-03-20 00:00:00
+Japan,憲法記念日,憲法記念日,,JP,1976-05-03 00:00:00
+Japan,こどもの日,こどもの日,,JP,1976-05-05 00:00:00
+Japan,敬老の日,敬老の日,true,JP,1976-09-15 00:00:00
+Japan,秋分の日,秋分の日,,JP,1976-09-23 00:00:00
+Japan,振替休日,振替休日,,JP,1976-10-11 00:00:00
+Japan,勤労感謝の日,勤労感謝の日,,JP,1976-11-23 00:00:00
+Japan,成人の日,成人の日,,JP,1977-01-15 00:00:00
+Japan,春分の日,春分の日,,JP,1977-03-21 00:00:00
+Japan,天皇誕生日,天皇誕生日,,JP,1977-04-29 00:00:00
+Japan,憲法記念日,憲法記念日,,JP,1977-05-03 00:00:00
+Japan,敬老の日,敬老の日,,JP,1977-09-15 00:00:00
+Japan,体育の日,体育の日,true,JP,1977-10-10 00:00:00
+Japan,文化の日,文化の日,,JP,1977-11-03 00:00:00
+Japan,勤労感謝の日,勤労感謝の日,,JP,1977-11-23 00:00:00
+Japan,元日,元日,,JP,1978-01-01 00:00:00
+Japan,振替休日,振替休日,true,JP,1978-01-16 00:00:00
+Croatia,Uskrs,Uskrs,,HR,1970-03-29 00:00:00
+Croatia,Uskrsni ponedjeljak,Uskrsni ponedjeljak,,HR,1970-03-30 00:00:00
+Croatia,Međunarodni praznik rada,Međunarodni praznik rada,,HR,1970-05-01 00:00:00
+Croatia,Tijelovo,Tijelovo,,HR,1970-05-28 00:00:00
+Croatia,Dan antifašističke borbe,Dan antifašističke borbe,,HR,1970-06-22 00:00:00
+Croatia,Velika Gospa,Velika Gospa,,HR,1970-08-15 00:00:00
+Croatia,Svi sveti,Svi sveti,,HR,1970-11-01 00:00:00
+Croatia,Sveti Stjepan,Sveti Stjepan,,HR,1970-12-26 00:00:00
+Croatia,Uskrs,Uskrs,,HR,1971-04-11 00:00:00
+Croatia,Dan antifašističke borbe,Dan antifašističke borbe,,HR,1971-06-22 00:00:00
+Croatia,Dan pobjede i domovinske zahvalnosti,Dan pobjede i domovinske zahvalnosti,,HR,1971-08-05 00:00:00
+Croatia,Velika Gospa,Velika Gospa,,HR,1971-08-15 00:00:00
+Croatia,Božić,Božić,,HR,1971-12-25 00:00:00
+Croatia,Sveti Stjepan,Sveti Stjepan,,HR,1971-12-26 00:00:00
+Croatia,Uskrs,Uskrs,,HR,1972-04-02 00:00:00
+Croatia,Uskrsni ponedjeljak,Uskrsni ponedjeljak,,HR,1972-04-03 00:00:00
+Croatia,Međunarodni praznik rada,Međunarodni praznik rada,,HR,1972-05-01 00:00:00
+Croatia,Dan državnosti,Dan državnosti,,HR,1972-06-25 00:00:00
+Croatia,Dan pobjede i domovinske zahvalnosti,Dan pobjede i domovinske zahvalnosti,,HR,1972-08-05 00:00:00
+Croatia,Velika Gospa,Velika Gospa,,HR,1972-08-15 00:00:00
+Croatia,Dan neovisnosti,Dan neovisnosti,,HR,1972-10-08 00:00:00
+Croatia,Svi sveti,Svi sveti,,HR,1972-11-01 00:00:00
+Croatia,Božić,Božić,,HR,1972-12-25 00:00:00
+Croatia,Sveti Stjepan,Sveti Stjepan,,HR,1972-12-26 00:00:00
+Croatia,Uskrsni ponedjeljak,Uskrsni ponedjeljak,,HR,1973-04-23 00:00:00
+Croatia,Međunarodni praznik rada,Međunarodni praznik rada,,HR,1973-05-01 00:00:00
+Croatia,Tijelovo,Tijelovo,,HR,1973-06-21 00:00:00
+Croatia,Dan antifašističke borbe,Dan antifašističke borbe,,HR,1973-06-22 00:00:00
+Croatia,Dan neovisnosti,Dan neovisnosti,,HR,1973-10-08 00:00:00
+Croatia,Božić,Božić,,HR,1973-12-25 00:00:00
+Croatia,Uskrs,Uskrs,,HR,1974-04-14 00:00:00
+Croatia,Uskrsni ponedjeljak,Uskrsni ponedjeljak,,HR,1974-04-15 00:00:00
+Croatia,Dan državnosti,Dan državnosti,,HR,1974-06-25 00:00:00
+Croatia,Velika Gospa,Velika Gospa,,HR,1974-08-15 00:00:00
+Croatia,Dan neovisnosti,Dan neovisnosti,true,HR,1974-10-08 00:00:00
+Croatia,Svi sveti,Svi sveti,,HR,1974-11-01 00:00:00
+Croatia,Božić,Božić,,HR,1974-12-25 00:00:00
+Croatia,Sveti Stjepan,Sveti Stjepan,,HR,1974-12-26 00:00:00
+Croatia,Uskrsni ponedjeljak,Uskrsni ponedjeljak,,HR,1975-03-31 00:00:00
+Croatia,Tijelovo,Tijelovo,,HR,1975-05-29 00:00:00
+Croatia,Dan antifašističke borbe,Dan antifašističke borbe,,HR,1975-06-22 00:00:00
+Croatia,Dan državnosti,Dan državnosti,,HR,1975-06-25 00:00:00
+Croatia,Dan pobjede i domovinske zahvalnosti,Dan pobjede i domovinske zahvalnosti,,HR,1975-08-05 00:00:00
+Croatia,Dan neovisnosti,Dan neovisnosti,,HR,1975-10-08 00:00:00
+Croatia,Svi sveti,Svi sveti,,HR,1975-11-01 00:00:00
+Croatia,Božić,Božić,,HR,1975-12-25 00:00:00
+Croatia,Sveti Stjepan,Sveti Stjepan,,HR,1975-12-26 00:00:00
+Croatia,Uskrs,Uskrs,,HR,1976-04-18 00:00:00
+Croatia,Uskrsni ponedjeljak,Uskrsni ponedjeljak,,HR,1976-04-19 00:00:00
+Croatia,Međunarodni praznik rada,Međunarodni praznik rada,,HR,1976-05-01 00:00:00
+Croatia,Dan antifašističke borbe,Dan antifašističke borbe,true,HR,1976-06-22 00:00:00
+Croatia,Dan pobjede i domovinske zahvalnosti,Dan pobjede i domovinske zahvalnosti,true,HR,1976-08-05 00:00:00
+Croatia,Dan neovisnosti,Dan neovisnosti,,HR,1976-10-08 00:00:00
+Croatia,Svi sveti,Svi sveti,,HR,1976-11-01 00:00:00
+Croatia,Božić,Božić,,HR,1976-12-25 00:00:00
+Croatia,Uskrs,Uskrs,,HR,1977-04-10 00:00:00
+Croatia,Uskrsni ponedjeljak,Uskrsni ponedjeljak,,HR,1977-04-11 00:00:00
+Croatia,Tijelovo,Tijelovo,,HR,1977-06-09 00:00:00
+Croatia,Dan antifašističke borbe,Dan antifašističke borbe,,HR,1977-06-22 00:00:00
+Croatia,Dan državnosti,Dan državnosti,,HR,1977-06-25 00:00:00
+Croatia,Dan pobjede i domovinske zahvalnosti,Dan pobjede i domovinske zahvalnosti,,HR,1977-08-05 00:00:00
+Croatia,Dan neovisnosti,Dan neovisnosti,,HR,1977-10-08 00:00:00
+Croatia,Svi sveti,Svi sveti,,HR,1977-11-01 00:00:00
+Croatia,Božić,Božić,,HR,1977-12-25 00:00:00
+Croatia,Sveta tri kralja,Sveta tri kralja,,HR,1970-01-06 00:00:00
+Croatia,Sveta tri kralja,Sveta tri kralja,,HR,1971-01-06 00:00:00
+Croatia,Sveta tri kralja,Sveta tri kralja,,HR,1972-01-06 00:00:00
+Croatia,Sveta tri kralja,Sveta tri kralja,,HR,1973-01-06 00:00:00
+Croatia,Sveta tri kralja,Sveta tri kralja,,HR,1974-01-06 00:00:00
+Croatia,Sveta tri kralja,Sveta tri kralja,,HR,1976-01-06 00:00:00
+Croatia,Sveta tri kralja,Sveta tri kralja,,HR,1977-01-06 00:00:00
+Croatia,Sveta tri kralja,Sveta tri kralja,,HR,1978-01-06 00:00:00
+Croatia,Nova Godina,Nova Godina,true,HR,1970-01-01 00:00:00
+Croatia,Nova Godina,Nova Godina,,HR,1971-01-01 00:00:00
+Croatia,Nova Godina,Nova Godina,,HR,1972-01-01 00:00:00
+Croatia,Nova Godina,Nova Godina,,HR,1973-01-01 00:00:00
+Croatia,Nova Godina,Nova Godina,,HR,1974-01-01 00:00:00
+Croatia,Nova Godina,Nova Godina,,HR,1975-01-01 00:00:00
+Croatia,Nova Godina,Nova Godina,,HR,1977-01-01 00:00:00
+Croatia,Nova Godina,Nova Godina,,HR,1978-01-01 00:00:00
+Brazil,Quarta-feira de cinzas (Início da Quaresma),Quarta-feira de cinzas (Início da Quaresma),,BR,1970-02-11 00:00:00
+Brazil,Quarta-feira de cinzas (Início da Quaresma),Quarta-feira de cinzas (Início da Quaresma),,BR,1971-02-24 00:00:00
+Brazil,Quarta-feira de cinzas (Início da Quaresma),Quarta-feira de cinzas (Início da Quaresma),,BR,1972-02-16 00:00:00
+Brazil,Quarta-feira de cinzas (Início da Quaresma),Quarta-feira de cinzas (Início da Quaresma),,BR,1973-03-07 00:00:00
+Brazil,Quarta-feira de cinzas (Início da Quaresma),Quarta-feira de cinzas (Início da Quaresma),true,BR,1974-02-27 00:00:00
+Brazil,Quarta-feira de cinzas (Início da Quaresma),Quarta-feira de cinzas (Início da Quaresma),,BR,1975-02-12 00:00:00
+Brazil,Quarta-feira de cinzas (Início da Quaresma),Quarta-feira de cinzas (Início da Quaresma),,BR,1976-03-03 00:00:00
+Brazil,Quarta-feira de cinzas (Início da Quaresma),Quarta-feira de cinzas (Início da Quaresma),,BR,1977-02-23 00:00:00
+Brazil,Ano novo,Ano novo,,BR,1970-01-01 00:00:00
+Brazil,Ano novo,Ano novo,,BR,1971-01-01 00:00:00
+Brazil,Ano novo,Ano novo,,BR,1972-01-01 00:00:00
+Brazil,Ano novo,Ano novo,,BR,1973-01-01 00:00:00
+Brazil,Ano novo,Ano novo,,BR,1974-01-01 00:00:00
+Brazil,Ano novo,Ano novo,,BR,1976-01-01 00:00:00
+Brazil,Ano novo,Ano novo,,BR,1977-01-01 00:00:00
+Brazil,Ano novo,Ano novo,,BR,1978-01-01 00:00:00
+Brazil,Carnaval,Carnaval,,BR,1970-02-10 00:00:00
+Brazil,Sexta-feira Santa,Sexta-feira Santa,,BR,1970-03-27 00:00:00
+Brazil,Tiradentes,Tiradentes,,BR,1970-04-21 00:00:00
+Brazil,Dia Mundial do Trabalho,Dia Mundial do Trabalho,,BR,1970-05-01 00:00:00
+Brazil,Independência do Brasil,Independência do Brasil,,BR,1970-09-07 00:00:00
+Brazil,Nossa Senhora Aparecida,Nossa Senhora Aparecida,,BR,1970-10-12 00:00:00
+Brazil,Finados,Finados,,BR,1970-11-02 00:00:00
+Brazil,Natal,Natal,,BR,1970-12-25 00:00:00
+Brazil,Carnaval,Carnaval,,BR,1971-02-23 00:00:00
+Brazil,Sexta-feira Santa,Sexta-feira Santa,,BR,1971-04-09 00:00:00
+Brazil,Páscoa,Páscoa,,BR,1971-04-11 00:00:00
+Brazil,Dia Mundial do Trabalho,Dia Mundial do Trabalho,,BR,1971-05-01 00:00:00
+Brazil,Corpus Christi,Corpus Christi,,BR,1971-06-10 00:00:00
+Brazil,Finados,Finados,,BR,1971-11-02 00:00:00
+Brazil,Proclamação da República,Proclamação da República,,BR,1971-11-15 00:00:00
+Brazil,Natal,Natal,,BR,1971-12-25 00:00:00
+Brazil,Carnaval,Carnaval,,BR,1972-02-15 00:00:00
+Brazil,Sexta-feira Santa,Sexta-feira Santa,true,BR,1972-03-31 00:00:00
+Brazil,Páscoa,Páscoa,,BR,1972-04-02 00:00:00
+Brazil,Nossa Senhora Aparecida,Nossa Senhora Aparecida,,BR,1972-10-12 00:00:00
+Brazil,Proclamação da República,Proclamação da República,true,BR,1972-11-15 00:00:00
+Brazil,Carnaval,Carnaval,,BR,1973-03-06 00:00:00
+Brazil,Sexta-feira Santa,Sexta-feira Santa,,BR,1973-04-20 00:00:00
+Brazil,Tiradentes,Tiradentes,,BR,1973-04-21 00:00:00
+Brazil,Páscoa,Páscoa,,BR,1973-04-22 00:00:00
+Brazil,Corpus Christi,Corpus Christi,true,BR,1973-06-21 00:00:00
+Brazil,Independência do Brasil,Independência do Brasil,,BR,1973-09-07 00:00:00
+Brazil,Nossa Senhora Aparecida,Nossa Senhora Aparecida,,BR,1973-10-12 00:00:00
+Brazil,Finados,Finados,,BR,1973-11-02 00:00:00
+Brazil,Proclamação da República,Proclamação da República,,BR,1973-11-15 00:00:00
+Brazil,Natal,Natal,,BR,1973-12-25 00:00:00
+Brazil,Carnaval,Carnaval,,BR,1974-02-26 00:00:00
+Brazil,Sexta-feira Santa,Sexta-feira Santa,,BR,1974-04-12 00:00:00
+Brazil,Tiradentes,Tiradentes,,BR,1974-04-21 00:00:00
+Brazil,Dia Mundial do Trabalho,Dia Mundial do Trabalho,,BR,1974-05-01 00:00:00
+Brazil,Independência do Brasil,Independência do Brasil,true,BR,1974-09-07 00:00:00
+Brazil,Nossa Senhora Aparecida,Nossa Senhora Aparecida,,BR,1974-10-12 00:00:00
+Brazil,Finados,Finados,,BR,1974-11-02 00:00:00
+Brazil,Proclamação da República,Proclamação da República,,BR,1974-11-15 00:00:00
+Brazil,Natal,Natal,,BR,1974-12-25 00:00:00
+Brazil,Carnaval,Carnaval,,BR,1975-02-11 00:00:00
+Brazil,Sexta-feira Santa,Sexta-feira Santa,,BR,1975-03-28 00:00:00
+Brazil,Páscoa,Páscoa,true,BR,1975-03-30 00:00:00
+Brazil,Tiradentes,Tiradentes,,BR,1975-04-21 00:00:00
+Brazil,Dia Mundial do Trabalho,Dia Mundial do Trabalho,,BR,1975-05-01 00:00:00
+Brazil,Independência do Brasil,Independência do Brasil,,BR,1975-09-07 00:00:00
+Brazil,Finados,Finados,,BR,1975-11-02 00:00:00
+Brazil,Proclamação da República,Proclamação da República,,BR,1975-11-15 00:00:00
+Brazil,Natal,Natal,,BR,1975-12-25 00:00:00
+Brazil,Páscoa,Páscoa,,BR,1976-04-18 00:00:00
+Brazil,Tiradentes,Tiradentes,,BR,1976-04-21 00:00:00
+Brazil,Dia Mundial do Trabalho,Dia Mundial do Trabalho,true,BR,1976-05-01 00:00:00
+Brazil,Corpus Christi,Corpus Christi,,BR,1976-06-17 00:00:00
+Brazil,Nossa Senhora Aparecida,Nossa Senhora Aparecida,,BR,1976-10-12 00:00:00
+Brazil,Finados,Finados,,BR,1976-11-02 00:00:00
+Brazil,Natal,Natal,,BR,1976-12-25 00:00:00
+Brazil,Carnaval,Carnaval,,BR,1977-02-22 00:00:00
+Brazil,Sexta-feira Santa,Sexta-feira Santa,,BR,1977-04-08 00:00:00
+Brazil,Dia Mundial do Trabalho,Dia Mundial do Trabalho,,BR,1977-05-01 00:00:00
+Brazil,Corpus Christi,Corpus Christi,,BR,1977-06-09 00:00:00
+Brazil,Independência do Brasil,Independência do Brasil,,BR,1977-09-07 00:00:00
+Brazil,Finados,Finados,,BR,1977-11-02 00:00:00
+Brazil,Natal,Natal,,BR,1977-12-25 00:00:00
+Portugal,Páscoa,Páscoa,,PT,1970-03-29 00:00:00
+Portugal,Dia da Liberdade,Dia da Liberdade,,PT,1970-04-25 00:00:00
+Portugal,Dia do Trabalhador,Dia do Trabalhador,,PT,1970-05-01 00:00:00
+Portugal,Corpo de Deus,Corpo de Deus,,PT,1970-05-28 00:00:00
+Portugal,Dia de Portugal,Dia de Portugal,true,PT,1970-06-10 00:00:00
+Portugal,Assunção de Nossa Senhora,Assunção de Nossa Senhora,,PT,1970-08-15 00:00:00
+Portugal,Implantação da República,Implantação da República,,PT,1970-10-05 00:00:00
+Portugal,Dia de Todos os Santos,Dia de Todos os Santos,,PT,1970-11-01 00:00:00
+Portugal,Restauração da Independência,Restauração da Independência,,PT,1970-12-01 00:00:00
+Portugal,Imaculada Conceição,Imaculada Conceição,,PT,1970-12-08 00:00:00
+Portugal,Ano Novo,Ano Novo,,PT,1971-01-01 00:00:00
+Portugal,Sexta-feira Santa,Sexta-feira Santa,,PT,1971-04-09 00:00:00
+Portugal,Páscoa,Páscoa,,PT,1971-04-11 00:00:00
+Portugal,Dia da Liberdade,Dia da Liberdade,,PT,1971-04-25 00:00:00
+Portugal,Dia do Trabalhador,Dia do Trabalhador,,PT,1971-05-01 00:00:00
+Portugal,"Dia de Portugal, Corpo de Deus","Dia de Portugal, Corpo de Deus",,PT,1971-06-10 00:00:00
+Portugal,Assunção de Nossa Senhora,Assunção de Nossa Senhora,,PT,1971-08-15 00:00:00
+Portugal,Implantação da República,Implantação da República,,PT,1971-10-05 00:00:00
+Portugal,Imaculada Conceição,Imaculada Conceição,,PT,1971-12-08 00:00:00
+Portugal,Dia de Natal,Dia de Natal,,PT,1971-12-25 00:00:00
+Portugal,Sexta-feira Santa,Sexta-feira Santa,,PT,1972-03-31 00:00:00
+Portugal,Páscoa,Páscoa,,PT,1972-04-02 00:00:00
+Portugal,Dia da Liberdade,Dia da Liberdade,,PT,1972-04-25 00:00:00
+Portugal,Dia de Portugal,Dia de Portugal,,PT,1972-06-10 00:00:00
+Portugal,Imaculada Conceição,Imaculada Conceição,,PT,1972-12-08 00:00:00
+Portugal,Dia de Natal,Dia de Natal,,PT,1972-12-25 00:00:00
+Portugal,Ano Novo,Ano Novo,,PT,1973-01-01 00:00:00
+Portugal,Sexta-feira Santa,Sexta-feira Santa,,PT,1973-04-20 00:00:00
+Portugal,Páscoa,Páscoa,,PT,1973-04-22 00:00:00
+Portugal,Dia da Liberdade,Dia da Liberdade,,PT,1973-04-25 00:00:00
+Portugal,Dia do Trabalhador,Dia do Trabalhador,,PT,1973-05-01 00:00:00
+Portugal,Assunção de Nossa Senhora,Assunção de Nossa Senhora,,PT,1973-08-15 00:00:00
+Portugal,Implantação da República,Implantação da República,,PT,1973-10-05 00:00:00
+Portugal,Restauração da Independência,Restauração da Independência,,PT,1973-12-01 00:00:00
+Portugal,Imaculada Conceição,Imaculada Conceição,,PT,1973-12-08 00:00:00
+Portugal,Dia de Natal,Dia de Natal,,PT,1973-12-25 00:00:00
+Portugal,Páscoa,Páscoa,,PT,1974-04-14 00:00:00
+Portugal,Corpo de Deus,Corpo de Deus,,PT,1974-06-13 00:00:00
+Portugal,Implantação da República,Implantação da República,,PT,1974-10-05 00:00:00
+Portugal,Dia de Todos os Santos,Dia de Todos os Santos,,PT,1974-11-01 00:00:00
+Portugal,Restauração da Independência,Restauração da Independência,,PT,1974-12-01 00:00:00
+Portugal,Ano Novo,Ano Novo,,PT,1975-01-01 00:00:00
+Portugal,Páscoa,Páscoa,true,PT,1975-03-30 00:00:00
+Portugal,Dia do Trabalhador,Dia do Trabalhador,,PT,1975-05-01 00:00:00
+Portugal,Dia de Portugal,Dia de Portugal,,PT,1975-06-10 00:00:00
+Portugal,Assunção de Nossa Senhora,Assunção de Nossa Senhora,,PT,1975-08-15 00:00:00
+Portugal,Restauração da Independência,Restauração da Independência,,PT,1975-12-01 00:00:00
+Portugal,Sexta-feira Santa,Sexta-feira Santa,,PT,1976-04-16 00:00:00
+Portugal,Dia da Liberdade,Dia da Liberdade,,PT,1976-04-25 00:00:00
+Portugal,Dia de Portugal,Dia de Portugal,,PT,1976-06-10 00:00:00
+Portugal,Corpo de Deus,Corpo de Deus,,PT,1976-06-17 00:00:00
+Portugal,Assunção de Nossa Senhora,Assunção de Nossa Senhora,,PT,1976-08-15 00:00:00
+Portugal,Implantação da República,Implantação da República,,PT,1976-10-05 00:00:00
+Portugal,Restauração da Independência,Restauração da Independência,,PT,1976-12-01 00:00:00
+Portugal,Imaculada Conceição,Imaculada Conceição,,PT,1976-12-08 00:00:00
+Portugal,Dia de Natal,Dia de Natal,,PT,1976-12-25 00:00:00
+Portugal,Ano Novo,Ano Novo,,PT,1977-01-01 00:00:00
+Portugal,Dia da Liberdade,Dia da Liberdade,,PT,1977-04-25 00:00:00
+Portugal,Dia do Trabalhador,Dia do Trabalhador,,PT,1977-05-01 00:00:00
+Portugal,Corpo de Deus,Corpo de Deus,,PT,1977-06-09 00:00:00
+Portugal,Dia de Portugal,Dia de Portugal,,PT,1977-06-10 00:00:00
+Portugal,Implantação da República,Implantação da República,,PT,1977-10-05 00:00:00
+Portugal,Dia de Todos os Santos,Dia de Todos os Santos,,PT,1977-11-01 00:00:00
+Portugal,Imaculada Conceição,Imaculada Conceição,,PT,1977-12-08 00:00:00
+Portugal,Dia de Natal,Dia de Natal,,PT,1977-12-25 00:00:00
+Hungary,A Tanácsköztársaság kikiáltásának ünnepe,A Tanácsköztársaság kikiáltásának ünnepe,,HU,1970-03-21 00:00:00
+Hungary,Húsvét,Húsvét,,HU,1970-03-29 00:00:00
+Hungary,Húsvét Hétfő,Húsvét Hétfő,,HU,1970-03-30 00:00:00
+Hungary,A felszabadulás ünnepe,A felszabadulás ünnepe,,HU,1970-04-04 00:00:00
+Hungary,A Munka ünnepe,A Munka ünnepe,,HU,1970-05-01 00:00:00
+Hungary,Pünkösd,Pünkösd,,HU,1970-05-17 00:00:00
+Hungary,A kenyér ünnepe,A kenyér ünnepe,,HU,1970-08-20 00:00:00
+Hungary,A nagy októberi szocialista forradalom ünnepe,A nagy októberi szocialista forradalom ünnepe,,HU,1970-11-07 00:00:00
+Hungary,Karácsony,Karácsony,,HU,1970-12-25 00:00:00
+Hungary,Újév,Újév,,HU,1971-01-01 00:00:00
+Hungary,A Tanácsköztársaság kikiáltásának ünnepe,A Tanácsköztársaság kikiáltásának ünnepe,,HU,1971-03-21 00:00:00
+Hungary,A felszabadulás ünnepe,A felszabadulás ünnepe,,HU,1971-04-04 00:00:00
+Hungary,Húsvét Hétfő,Húsvét Hétfő,,HU,1971-04-12 00:00:00
+Hungary,A Munka ünnepe,A Munka ünnepe,,HU,1971-05-01 00:00:00
+Hungary,Pünkösd,Pünkösd,true,HU,1971-05-30 00:00:00
+Hungary,A nagy októberi szocialista forradalom ünnepe,A nagy októberi szocialista forradalom ünnepe,,HU,1971-11-07 00:00:00
+Hungary,Karácsony másnapja,Karácsony másnapja,,HU,1971-12-26 00:00:00
+Hungary,A Tanácsköztársaság kikiáltásának ünnepe,A Tanácsköztársaság kikiáltásának ünnepe,,HU,1972-03-21 00:00:00
+Hungary,Húsvét Hétfő,Húsvét Hétfő,,HU,1972-04-03 00:00:00
+Hungary,A felszabadulás ünnepe,A felszabadulás ünnepe,,HU,1972-04-04 00:00:00
+Hungary,Pünkösd,Pünkösd,,HU,1972-05-21 00:00:00
+Hungary,A kenyér ünnepe,A kenyér ünnepe,,HU,1972-08-20 00:00:00
+Hungary,A nagy októberi szocialista forradalom ünnepe,A nagy októberi szocialista forradalom ünnepe,,HU,1972-11-07 00:00:00
+Hungary,Karácsony másnapja,Karácsony másnapja,,HU,1972-12-26 00:00:00
+Hungary,Újév,Újév,,HU,1973-01-01 00:00:00
+Hungary,A felszabadulás ünnepe,A felszabadulás ünnepe,,HU,1973-04-04 00:00:00
+Hungary,Húsvét,Húsvét,,HU,1973-04-22 00:00:00
+Hungary,Húsvét Hétfő,Húsvét Hétfő,,HU,1973-04-23 00:00:00
+Hungary,A Munka ünnepe,A Munka ünnepe,,HU,1973-05-01 00:00:00
+Hungary,A kenyér ünnepe,A kenyér ünnepe,,HU,1973-08-20 00:00:00
+Hungary,Karácsony,Karácsony,,HU,1973-12-25 00:00:00
+Hungary,Karácsony másnapja,Karácsony másnapja,,HU,1973-12-26 00:00:00
+Hungary,A Tanácsköztársaság kikiáltásának ünnepe,A Tanácsköztársaság kikiáltásának ünnepe,,HU,1974-03-21 00:00:00
+Hungary,A felszabadulás ünnepe,A felszabadulás ünnepe,,HU,1974-04-04 00:00:00
+Hungary,Húsvét,Húsvét,,HU,1974-04-14 00:00:00
+Hungary,Húsvét Hétfő,Húsvét Hétfő,,HU,1974-04-15 00:00:00
+Hungary,A Munka ünnepe,A Munka ünnepe,,HU,1974-05-01 00:00:00
+Hungary,A kenyér ünnepe,A kenyér ünnepe,,HU,1974-08-20 00:00:00
+Hungary,A nagy októberi szocialista forradalom ünnepe,A nagy októberi szocialista forradalom ünnepe,true,HU,1974-11-07 00:00:00
+Hungary,A Tanácsköztársaság kikiáltásának ünnepe,A Tanácsköztársaság kikiáltásának ünnepe,,HU,1975-03-21 00:00:00
+Hungary,Húsvét Hétfő,Húsvét Hétfő,,HU,1975-03-31 00:00:00
+Hungary,A Munka ünnepe,A Munka ünnepe,,HU,1975-05-01 00:00:00
+Hungary,Pünkösd,Pünkösd,,HU,1975-05-18 00:00:00
+Hungary,A kenyér ünnepe,A kenyér ünnepe,,HU,1975-08-20 00:00:00
+Hungary,Karácsony,Karácsony,,HU,1975-12-25 00:00:00
+Hungary,Karácsony másnapja,Karácsony másnapja,,HU,1975-12-26 00:00:00
+Hungary,A Tanácsköztársaság kikiáltásának ünnepe,A Tanácsköztársaság kikiáltásának ünnepe,,HU,1976-03-21 00:00:00
+Hungary,A felszabadulás ünnepe,A felszabadulás ünnepe,,HU,1976-04-04 00:00:00
+Hungary,Húsvét,Húsvét,,HU,1976-04-18 00:00:00
+Hungary,A Munka ünnepe,A Munka ünnepe,,HU,1976-05-01 00:00:00
+Hungary,A nagy októberi szocialista forradalom ünnepe,A nagy októberi szocialista forradalom ünnepe,,HU,1976-11-07 00:00:00
+Hungary,Karácsony,Karácsony,,HU,1976-12-25 00:00:00
+Hungary,Karácsony másnapja,Karácsony másnapja,,HU,1976-12-26 00:00:00
+Hungary,Újév,Újév,,HU,1977-01-01 00:00:00
+Hungary,A Tanácsköztársaság kikiáltásának ünnepe,A Tanácsköztársaság kikiáltásának ünnepe,,HU,1977-03-21 00:00:00
+Hungary,A felszabadulás ünnepe,A felszabadulás ünnepe,,HU,1977-04-04 00:00:00
+Hungary,Húsvét,Húsvét,,HU,1977-04-10 00:00:00
+Hungary,A Munka ünnepe,A Munka ünnepe,,HU,1977-05-01 00:00:00
+Hungary,A kenyér ünnepe,A kenyér ünnepe,,HU,1977-08-20 00:00:00
+Hungary,A nagy októberi szocialista forradalom ünnepe,A nagy októberi szocialista forradalom ünnepe,,HU,1977-11-07 00:00:00
+Hungary,Karácsony másnapja,Karácsony másnapja,,HU,1977-12-26 00:00:00
+Belgium,O.L.V. Hemelvaart,O.L.V. Hemelvaart,,BE,1970-08-15 00:00:00
+Belgium,O.L.V. Hemelvaart,O.L.V. Hemelvaart,,BE,1971-08-15 00:00:00
+Belgium,O.L.V. Hemelvaart,O.L.V. Hemelvaart,,BE,1972-08-15 00:00:00
+Belgium,O.L.V. Hemelvaart,O.L.V. Hemelvaart,,BE,1973-08-15 00:00:00
+Belgium,O.L.V. Hemelvaart,O.L.V. Hemelvaart,,BE,1974-08-15 00:00:00
+Belgium,O.L.V. Hemelvaart,O.L.V. Hemelvaart,,BE,1975-08-15 00:00:00
+Belgium,O.L.V. Hemelvaart,O.L.V. Hemelvaart,,BE,1976-08-15 00:00:00
+Belgium,O.L.V. Hemelvaart,O.L.V. Hemelvaart,,BE,1977-08-15 00:00:00
+Belgium,Nieuwjaarsdag,Nieuwjaarsdag,,BE,1970-01-01 00:00:00
+Belgium,Dag van de Arbeid,Dag van de Arbeid,,BE,1970-05-01 00:00:00
+Belgium,O.L.H. Hemelvaart,O.L.H. Hemelvaart,,BE,1970-05-07 00:00:00
+Belgium,Pinksteren,Pinksteren,,BE,1970-05-17 00:00:00
+Belgium,Nationale feestdag,Nationale feestdag,,BE,1970-07-21 00:00:00
+Belgium,Allerheiligen,Allerheiligen,,BE,1970-11-01 00:00:00
+Belgium,Wapenstilstand,Wapenstilstand,,BE,1970-11-11 00:00:00
+Belgium,Kerstmis,Kerstmis,,BE,1970-12-25 00:00:00
+Belgium,Pasen,Pasen,,BE,1971-04-11 00:00:00
+Belgium,Paasmaandag,Paasmaandag,,BE,1971-04-12 00:00:00
+Belgium,O.L.H. Hemelvaart,O.L.H. Hemelvaart,,BE,1971-05-20 00:00:00
+Belgium,Nationale feestdag,Nationale feestdag,,BE,1971-07-21 00:00:00
+Belgium,Allerheiligen,Allerheiligen,,BE,1971-11-01 00:00:00
+Belgium,Wapenstilstand,Wapenstilstand,,BE,1971-11-11 00:00:00
+Belgium,Nieuwjaarsdag,Nieuwjaarsdag,,BE,1972-01-01 00:00:00
+Belgium,Paasmaandag,Paasmaandag,,BE,1972-04-03 00:00:00
+Belgium,Dag van de Arbeid,Dag van de Arbeid,,BE,1972-05-01 00:00:00
+Belgium,Pinksteren,Pinksteren,,BE,1972-05-21 00:00:00
+Belgium,Pinkstermaandag,Pinkstermaandag,,BE,1972-05-22 00:00:00
+Belgium,Nationale feestdag,Nationale feestdag,,BE,1972-07-21 00:00:00
+Belgium,Allerheiligen,Allerheiligen,,BE,1972-11-01 00:00:00
+Belgium,Wapenstilstand,Wapenstilstand,,BE,1972-11-11 00:00:00
+Belgium,Pasen,Pasen,,BE,1973-04-22 00:00:00
+Belgium,Dag van de Arbeid,Dag van de Arbeid,,BE,1973-05-01 00:00:00
+Belgium,O.L.H. Hemelvaart,O.L.H. Hemelvaart,,BE,1973-05-31 00:00:00
+Belgium,Pinksteren,Pinksteren,,BE,1973-06-10 00:00:00
+Belgium,Pinkstermaandag,Pinkstermaandag,,BE,1973-06-11 00:00:00
+Belgium,Allerheiligen,Allerheiligen,,BE,1973-11-01 00:00:00
+Belgium,Wapenstilstand,Wapenstilstand,,BE,1973-11-11 00:00:00
+Belgium,Kerstmis,Kerstmis,true,BE,1973-12-25 00:00:00
+Belgium,Nieuwjaarsdag,Nieuwjaarsdag,true,BE,1974-01-01 00:00:00
+Belgium,Paasmaandag,Paasmaandag,,BE,1974-04-15 00:00:00
+Belgium,Dag van de Arbeid,Dag van de Arbeid,,BE,1974-05-01 00:00:00
+Belgium,O.L.H. Hemelvaart,O.L.H. Hemelvaart,,BE,1974-05-23 00:00:00
+Belgium,Pinksteren,Pinksteren,,BE,1974-06-02 00:00:00
+Belgium,Pinkstermaandag,Pinkstermaandag,,BE,1974-06-03 00:00:00
+Belgium,Nationale feestdag,Nationale feestdag,,BE,1974-07-21 00:00:00
+Belgium,Pasen,Pasen,,BE,1975-03-30 00:00:00
+Belgium,Dag van de Arbeid,Dag van de Arbeid,,BE,1975-05-01 00:00:00
+Belgium,Pinkstermaandag,Pinkstermaandag,,BE,1975-05-19 00:00:00
+Belgium,Nationale feestdag,Nationale feestdag,,BE,1975-07-21 00:00:00
+Belgium,Allerheiligen,Allerheiligen,,BE,1975-11-01 00:00:00
+Belgium,Wapenstilstand,Wapenstilstand,,BE,1975-11-11 00:00:00
+Belgium,Kerstmis,Kerstmis,,BE,1975-12-25 00:00:00
+Belgium,Nieuwjaarsdag,Nieuwjaarsdag,,BE,1976-01-01 00:00:00
+Belgium,Pasen,Pasen,,BE,1976-04-18 00:00:00
+Belgium,Paasmaandag,Paasmaandag,,BE,1976-04-19 00:00:00
+Belgium,Dag van de Arbeid,Dag van de Arbeid,,BE,1976-05-01 00:00:00
+Belgium,O.L.H. Hemelvaart,O.L.H. Hemelvaart,,BE,1976-05-27 00:00:00
+Belgium,Pinksteren,Pinksteren,,BE,1976-06-06 00:00:00
+Belgium,Nationale feestdag,Nationale feestdag,,BE,1976-07-21 00:00:00
+Belgium,Allerheiligen,Allerheiligen,,BE,1976-11-01 00:00:00
+Belgium,Wapenstilstand,Wapenstilstand,,BE,1976-11-11 00:00:00
+Belgium,Kerstmis,Kerstmis,,BE,1976-12-25 00:00:00
+Belgium,Nieuwjaarsdag,Nieuwjaarsdag,,BE,1977-01-01 00:00:00
+Belgium,Paasmaandag,Paasmaandag,,BE,1977-04-11 00:00:00
+Belgium,Dag van de Arbeid,Dag van de Arbeid,,BE,1977-05-01 00:00:00
+Belgium,Pinkstermaandag,Pinkstermaandag,,BE,1977-05-30 00:00:00
+Belgium,Nationale feestdag,Nationale feestdag,,BE,1977-07-21 00:00:00
+Belgium,Wapenstilstand,Wapenstilstand,,BE,1977-11-11 00:00:00
+Belgium,Nieuwjaarsdag,Nieuwjaarsdag,,BE,1978-01-01 00:00:00
+Denmark,Nytårsdag,Nytårsdag,,DK,1970-01-01 00:00:00
+Denmark,Skærtorsdag,Skærtorsdag,true,DK,1970-03-26 00:00:00
+Denmark,Anden påskedag,Anden påskedag,,DK,1970-03-30 00:00:00
+Denmark,Anden juledag,Anden juledag,,DK,1970-12-26 00:00:00
+Denmark,Nytårsdag,Nytårsdag,,DK,1971-01-01 00:00:00
+Denmark,Palmesøndag,Palmesøndag,true,DK,1971-04-04 00:00:00
+Denmark,Skærtorsdag,Skærtorsdag,,DK,1971-04-08 00:00:00
+Denmark,Langfredag,Langfredag,,DK,1971-04-09 00:00:00
+Denmark,Anden påskedag,Anden påskedag,,DK,1971-04-12 00:00:00
+Denmark,Store bededag,Store bededag,,DK,1971-05-07 00:00:00
+Denmark,Kristi himmelfartsdag,Kristi himmelfartsdag,,DK,1971-05-20 00:00:00
+Denmark,Anden pinsedag,Anden pinsedag,,DK,1971-05-31 00:00:00
+Denmark,Skærtorsdag,Skærtorsdag,true,DK,1972-03-30 00:00:00
+Denmark,Langfredag,Langfredag,,DK,1972-03-31 00:00:00
+Denmark,Anden påskedag,Anden påskedag,,DK,1972-04-03 00:00:00
+Denmark,Kristi himmelfartsdag,Kristi himmelfartsdag,,DK,1972-05-11 00:00:00
+Denmark,Anden juledag,Anden juledag,,DK,1972-12-26 00:00:00
+Denmark,Skærtorsdag,Skærtorsdag,,DK,1973-04-19 00:00:00
+Denmark,Anden påskedag,Anden påskedag,,DK,1973-04-23 00:00:00
+Denmark,Kristi himmelfartsdag,Kristi himmelfartsdag,,DK,1973-05-31 00:00:00
+Denmark,Pinsedag,Pinsedag,,DK,1973-06-10 00:00:00
+Denmark,Anden pinsedag,Anden pinsedag,,DK,1973-06-11 00:00:00
+Denmark,Juledag,Juledag,,DK,1973-12-25 00:00:00
+Denmark,Anden juledag,Anden juledag,,DK,1973-12-26 00:00:00
+Denmark,Nytårsdag,Nytårsdag,,DK,1974-01-01 00:00:00
+Denmark,Skærtorsdag,Skærtorsdag,,DK,1974-04-11 00:00:00
+Denmark,Langfredag,Langfredag,true,DK,1974-04-12 00:00:00
+Denmark,Anden påskedag,Anden påskedag,,DK,1974-04-15 00:00:00
+Denmark,Kristi himmelfartsdag,Kristi himmelfartsdag,,DK,1974-05-23 00:00:00
+Denmark,Pinsedag,Pinsedag,,DK,1974-06-02 00:00:00
+Denmark,Anden pinsedag,Anden pinsedag,,DK,1974-06-03 00:00:00
+Denmark,Palmesøndag,Palmesøndag,,DK,1975-03-23 00:00:00
+Denmark,Skærtorsdag,Skærtorsdag,,DK,1975-03-27 00:00:00
+Denmark,Anden påskedag,Anden påskedag,,DK,1975-03-31 00:00:00
+Denmark,Store bededag,Store bededag,,DK,1975-04-25 00:00:00
+Denmark,Kristi himmelfartsdag,Kristi himmelfartsdag,true,DK,1975-05-08 00:00:00
+Denmark,Pinsedag,Pinsedag,,DK,1975-05-18 00:00:00
+Denmark,Nytårsdag,Nytårsdag,,DK,1976-01-01 00:00:00
+Denmark,Palmesøndag,Palmesøndag,,DK,1976-04-11 00:00:00
+Denmark,Skærtorsdag,Skærtorsdag,,DK,1976-04-15 00:00:00
+Denmark,Anden påskedag,Anden påskedag,,DK,1976-04-19 00:00:00
+Denmark,Kristi himmelfartsdag,Kristi himmelfartsdag,,DK,1976-05-27 00:00:00
+Denmark,Pinsedag,Pinsedag,,DK,1976-06-06 00:00:00
+Denmark,Anden pinsedag,Anden pinsedag,,DK,1976-06-07 00:00:00
+Denmark,Juledag,Juledag,,DK,1976-12-25 00:00:00
+Denmark,Anden juledag,Anden juledag,,DK,1976-12-26 00:00:00
+Denmark,Nytårsdag,Nytårsdag,,DK,1977-01-01 00:00:00
+Denmark,Palmesøndag,Palmesøndag,,DK,1977-04-03 00:00:00
+Denmark,Langfredag,Langfredag,,DK,1977-04-08 00:00:00
+Denmark,Store bededag,Store bededag,,DK,1977-05-06 00:00:00
+Denmark,Kristi himmelfartsdag,Kristi himmelfartsdag,,DK,1977-05-19 00:00:00
+Denmark,Anden juledag,Anden juledag,,DK,1977-12-26 00:00:00
+Denmark,Påskedag,Påskedag,true,DK,1970-03-29 00:00:00
+Denmark,Påskedag,Påskedag,,DK,1971-04-11 00:00:00
+Denmark,Påskedag,Påskedag,,DK,1972-04-02 00:00:00
+Denmark,Påskedag,Påskedag,,DK,1973-04-22 00:00:00
+Denmark,Påskedag,Påskedag,,DK,1974-04-14 00:00:00
+Denmark,Påskedag,Påskedag,,DK,1975-03-30 00:00:00
+Denmark,Påskedag,Påskedag,true,DK,1976-04-18 00:00:00
+Denmark,Påskedag,Påskedag,,DK,1977-04-10 00:00:00
+Spain,Epifanía del Señor,Epifanía del Señor,,ES,1970-01-06 00:00:00
+Spain,Epifanía del Señor,Epifanía del Señor,,ES,1971-01-06 00:00:00
+Spain,Epifanía del Señor,Epifanía del Señor,,ES,1972-01-06 00:00:00
+Spain,Epifanía del Señor,Epifanía del Señor,,ES,1973-01-06 00:00:00
+Spain,Epifanía del Señor,Epifanía del Señor,,ES,1974-01-06 00:00:00
+Spain,Epifanía del Señor,Epifanía del Señor,,ES,1975-01-06 00:00:00
+Spain,Epifanía del Señor,Epifanía del Señor,,ES,1976-01-06 00:00:00
+Spain,Epifanía del Señor,Epifanía del Señor,,ES,1977-01-06 00:00:00
+Spain,Epifanía del Señor,Epifanía del Señor,,ES,1978-01-06 00:00:00
+Spain,Día de la constitución Española,Día de la constitución Española,true,ES,1970-12-06 00:00:00
+Spain,Día de la constitución Española,Día de la constitución Española,,ES,1971-12-06 00:00:00
+Spain,Día de la constitución Española,Día de la constitución Española,,ES,1972-12-06 00:00:00
+Spain,Día de la constitución Española,Día de la constitución Española,,ES,1973-12-06 00:00:00
+Spain,Día de la constitución Española,Día de la constitución Española,,ES,1974-12-06 00:00:00
+Spain,Día de la constitución Española,Día de la constitución Española,,ES,1975-12-06 00:00:00
+Spain,Día de la constitución Española,Día de la constitución Española,,ES,1976-12-06 00:00:00
+Spain,Día de la constitución Española,Día de la constitución Española,,ES,1977-12-06 00:00:00
+Spain,Año nuevo,Año nuevo,,ES,1970-01-01 00:00:00
+Spain,Día del Trabajador,Día del Trabajador,,ES,1970-05-01 00:00:00
+Spain,Asunción de la Virgen,Asunción de la Virgen,true,ES,1970-08-15 00:00:00
+Spain,Navidad,Navidad,,ES,1970-12-25 00:00:00
+Spain,Año nuevo,Año nuevo,,ES,1971-01-01 00:00:00
+Spain,Día de la Hispanidad,Día de la Hispanidad,,ES,1971-10-12 00:00:00
+Spain,Todos los Santos,Todos los Santos,,ES,1971-11-01 00:00:00
+Spain,La Inmaculada Concepción,La Inmaculada Concepción,,ES,1971-12-08 00:00:00
+Spain,Navidad,Navidad,,ES,1971-12-25 00:00:00
+Spain,Día del Trabajador,Día del Trabajador,,ES,1972-05-01 00:00:00
+Spain,Todos los Santos,Todos los Santos,,ES,1972-11-01 00:00:00
+Spain,Navidad,Navidad,,ES,1972-12-25 00:00:00
+Spain,Año nuevo,Año nuevo,,ES,1973-01-01 00:00:00
+Spain,Día del Trabajador,Día del Trabajador,true,ES,1973-05-01 00:00:00
+Spain,Día de la Hispanidad,Día de la Hispanidad,,ES,1973-10-12 00:00:00
+Spain,Todos los Santos,Todos los Santos,,ES,1973-11-01 00:00:00
+Spain,La Inmaculada Concepción,La Inmaculada Concepción,,ES,1973-12-08 00:00:00
+Spain,Navidad,Navidad,,ES,1973-12-25 00:00:00
+Spain,Año nuevo,Año nuevo,,ES,1974-01-01 00:00:00
+Spain,Día del Trabajador,Día del Trabajador,,ES,1974-05-01 00:00:00
+Spain,Día de la Hispanidad,Día de la Hispanidad,,ES,1974-10-12 00:00:00
+Spain,Todos los Santos,Todos los Santos,,ES,1974-11-01 00:00:00
+Spain,La Inmaculada Concepción,La Inmaculada Concepción,,ES,1974-12-08 00:00:00
+Spain,Año nuevo,Año nuevo,,ES,1975-01-01 00:00:00
+Spain,Día del Trabajador,Día del Trabajador,,ES,1975-05-01 00:00:00
+Spain,Asunción de la Virgen,Asunción de la Virgen,,ES,1975-08-15 00:00:00
+Spain,Todos los Santos,Todos los Santos,,ES,1975-11-01 00:00:00
+Spain,Asunción de la Virgen,Asunción de la Virgen,,ES,1976-08-15 00:00:00
+Spain,Todos los Santos,Todos los Santos,,ES,1976-11-01 00:00:00
+Spain,La Inmaculada Concepción,La Inmaculada Concepción,,ES,1976-12-08 00:00:00
+Spain,Navidad,Navidad,,ES,1976-12-25 00:00:00
+Spain,Año nuevo,Año nuevo,,ES,1977-01-01 00:00:00
+Spain,Día del Trabajador,Día del Trabajador,,ES,1977-05-01 00:00:00
+Spain,Asunción de la Virgen,Asunción de la Virgen,,ES,1977-08-15 00:00:00
+Spain,Día de la Hispanidad,Día de la Hispanidad,,ES,1977-10-12 00:00:00
+Spain,Todos los Santos,Todos los Santos,,ES,1977-11-01 00:00:00
+Spain,La Inmaculada Concepción,La Inmaculada Concepción,,ES,1977-12-08 00:00:00
+Spain,Navidad,Navidad,,ES,1977-12-25 00:00:00
+Austria,Ostermontag,Ostermontag,,AT,1970-03-30 00:00:00
+Austria,Pfingstmontag,Pfingstmontag,,AT,1970-05-18 00:00:00
+Austria,Mariä Himmelfahrt,Mariä Himmelfahrt,,AT,1970-08-15 00:00:00
+Austria,Nationalfeiertag,Nationalfeiertag,,AT,1970-10-26 00:00:00
+Austria,Allerheiligen,Allerheiligen,,AT,1970-11-01 00:00:00
+Austria,Mariä Empfängnis,Mariä Empfängnis,,AT,1970-12-08 00:00:00
+Austria,Christtag,Christtag,,AT,1970-12-25 00:00:00
+Austria,Heilige Drei Könige,Heilige Drei Könige,,AT,1971-01-06 00:00:00
+Austria,Ostermontag,Ostermontag,true,AT,1971-04-12 00:00:00
+Austria,Pfingstmontag,Pfingstmontag,,AT,1971-05-31 00:00:00
+Austria,Mariä Himmelfahrt,Mariä Himmelfahrt,,AT,1971-08-15 00:00:00
+Austria,Nationalfeiertag,Nationalfeiertag,,AT,1971-10-26 00:00:00
+Austria,Allerheiligen,Allerheiligen,true,AT,1971-11-01 00:00:00
+Austria,Mariä Empfängnis,Mariä Empfängnis,,AT,1971-12-08 00:00:00
+Austria,Stefanitag,Stefanitag,,AT,1971-12-26 00:00:00
+Austria,Neujahr,Neujahr,,AT,1972-01-01 00:00:00
+Austria,Heilige Drei Könige,Heilige Drei Könige,,AT,1972-01-06 00:00:00
+Austria,Ostermontag,Ostermontag,,AT,1972-04-03 00:00:00
+Austria,Staatsfeiertag,Staatsfeiertag,,AT,1972-05-01 00:00:00
+Austria,Christi Himmelfahrt,Christi Himmelfahrt,,AT,1972-05-11 00:00:00
+Austria,Pfingstmontag,Pfingstmontag,,AT,1972-05-22 00:00:00
+Austria,Fronleichnam,Fronleichnam,,AT,1972-06-01 00:00:00
+Austria,Mariä Himmelfahrt,Mariä Himmelfahrt,,AT,1972-08-15 00:00:00
+Austria,Nationalfeiertag,Nationalfeiertag,,AT,1972-10-26 00:00:00
+Austria,Mariä Empfängnis,Mariä Empfängnis,,AT,1972-12-08 00:00:00
+Austria,Christtag,Christtag,,AT,1972-12-25 00:00:00
+Austria,Neujahr,Neujahr,,AT,1973-01-01 00:00:00
+Austria,Staatsfeiertag,Staatsfeiertag,,AT,1973-05-01 00:00:00
+Austria,Christi Himmelfahrt,Christi Himmelfahrt,,AT,1973-05-31 00:00:00
+Austria,Pfingstmontag,Pfingstmontag,,AT,1973-06-11 00:00:00
+Austria,Fronleichnam,Fronleichnam,,AT,1973-06-21 00:00:00
+Austria,Mariä Himmelfahrt,Mariä Himmelfahrt,,AT,1973-08-15 00:00:00
+Austria,Allerheiligen,Allerheiligen,,AT,1973-11-01 00:00:00
+Austria,Mariä Empfängnis,Mariä Empfängnis,,AT,1973-12-08 00:00:00
+Austria,Christtag,Christtag,true,AT,1973-12-25 00:00:00
+Austria,Stefanitag,Stefanitag,,AT,1973-12-26 00:00:00
+Austria,Neujahr,Neujahr,,AT,1974-01-01 00:00:00
+Austria,Heilige Drei Könige,Heilige Drei Könige,,AT,1974-01-06 00:00:00
+Austria,Staatsfeiertag,Staatsfeiertag,,AT,1974-05-01 00:00:00
+Austria,Christi Himmelfahrt,Christi Himmelfahrt,,AT,1974-05-23 00:00:00
+Austria,Fronleichnam,Fronleichnam,,AT,1974-06-13 00:00:00
+Austria,Mariä Himmelfahrt,Mariä Himmelfahrt,,AT,1974-08-15 00:00:00
+Austria,Nationalfeiertag,Nationalfeiertag,,AT,1974-10-26 00:00:00
+Austria,Mariä Empfängnis,Mariä Empfängnis,,AT,1974-12-08 00:00:00
+Austria,Stefanitag,Stefanitag,,AT,1974-12-26 00:00:00
+Austria,Neujahr,Neujahr,,AT,1975-01-01 00:00:00
+Austria,Heilige Drei Könige,Heilige Drei Könige,,AT,1975-01-06 00:00:00
+Austria,Staatsfeiertag,Staatsfeiertag,,AT,1975-05-01 00:00:00
+Austria,Pfingstmontag,Pfingstmontag,,AT,1975-05-19 00:00:00
+Austria,Fronleichnam,Fronleichnam,true,AT,1975-05-29 00:00:00
+Austria,Mariä Himmelfahrt,Mariä Himmelfahrt,,AT,1975-08-15 00:00:00
+Austria,Nationalfeiertag,Nationalfeiertag,,AT,1975-10-26 00:00:00
+Austria,Mariä Empfängnis,Mariä Empfängnis,,AT,1975-12-08 00:00:00
+Austria,Christtag,Christtag,,AT,1975-12-25 00:00:00
+Austria,Stefanitag,Stefanitag,,AT,1975-12-26 00:00:00
+Austria,Neujahr,Neujahr,,AT,1976-01-01 00:00:00
+Austria,Heilige Drei Könige,Heilige Drei Könige,,AT,1976-01-06 00:00:00
+Austria,Christi Himmelfahrt,Christi Himmelfahrt,,AT,1976-05-27 00:00:00
+Austria,Fronleichnam,Fronleichnam,,AT,1976-06-17 00:00:00
+Austria,Allerheiligen,Allerheiligen,,AT,1976-11-01 00:00:00
+Austria,Heilige Drei Könige,Heilige Drei Könige,,AT,1977-01-06 00:00:00
+Austria,Ostermontag,Ostermontag,,AT,1977-04-11 00:00:00
+Austria,Christi Himmelfahrt,Christi Himmelfahrt,,AT,1977-05-19 00:00:00
+Austria,Pfingstmontag,Pfingstmontag,,AT,1977-05-30 00:00:00
+Austria,Fronleichnam,Fronleichnam,,AT,1977-06-09 00:00:00
+Austria,Mariä Himmelfahrt,Mariä Himmelfahrt,true,AT,1977-08-15 00:00:00
+Austria,Mariä Empfängnis,Mariä Empfängnis,true,AT,1977-12-08 00:00:00
+Austria,Stefanitag,Stefanitag,,AT,1977-12-26 00:00:00
+Austria,Heilige Drei Könige,Heilige Drei Könige,,AT,1978-01-06 00:00:00
+Switzerland,Karfreitag,Karfreitag,,CH,1970-03-27 00:00:00
+Switzerland,Ostermontag,Ostermontag,,CH,1970-03-30 00:00:00
+Switzerland,Pfingstmontag,Pfingstmontag,,CH,1970-05-18 00:00:00
+Switzerland,Weihnachten,Weihnachten,,CH,1970-12-25 00:00:00
+Switzerland,Karfreitag,Karfreitag,,CH,1971-04-09 00:00:00
+Switzerland,Ostern,Ostern,,CH,1971-04-11 00:00:00
+Switzerland,Ostermontag,Ostermontag,,CH,1971-04-12 00:00:00
+Switzerland,Pfingstmontag,Pfingstmontag,,CH,1971-05-31 00:00:00
+Switzerland,Nationalfeiertag,Nationalfeiertag,,CH,1971-08-01 00:00:00
+Switzerland,Karfreitag,Karfreitag,,CH,1972-03-31 00:00:00
+Switzerland,Ostern,Ostern,,CH,1972-04-02 00:00:00
+Switzerland,Ostermontag,Ostermontag,,CH,1972-04-03 00:00:00
+Switzerland,Pfingstmontag,Pfingstmontag,,CH,1972-05-22 00:00:00
+Switzerland,Weihnachten,Weihnachten,,CH,1972-12-25 00:00:00
+Switzerland,Karfreitag,Karfreitag,,CH,1973-04-20 00:00:00
+Switzerland,Ostern,Ostern,,CH,1973-04-22 00:00:00
+Switzerland,Ostermontag,Ostermontag,,CH,1973-04-23 00:00:00
+Switzerland,Karfreitag,Karfreitag,,CH,1974-04-12 00:00:00
+Switzerland,Ostern,Ostern,true,CH,1974-04-14 00:00:00
+Switzerland,Ostermontag,Ostermontag,,CH,1974-04-15 00:00:00
+Switzerland,Pfingstmontag,Pfingstmontag,,CH,1974-06-03 00:00:00
+Switzerland,Nationalfeiertag,Nationalfeiertag,,CH,1974-08-01 00:00:00
+Switzerland,Weihnachten,Weihnachten,,CH,1974-12-25 00:00:00
+Switzerland,Karfreitag,Karfreitag,,CH,1975-03-28 00:00:00
+Switzerland,Ostern,Ostern,,CH,1975-03-30 00:00:00
+Switzerland,Ostermontag,Ostermontag,,CH,1975-03-31 00:00:00
+Switzerland,Weihnachten,Weihnachten,,CH,1975-12-25 00:00:00
+Switzerland,Ostern,Ostern,,CH,1976-04-18 00:00:00
+Switzerland,Pfingstmontag,Pfingstmontag,true,CH,1976-06-07 00:00:00
+Switzerland,Nationalfeiertag,Nationalfeiertag,,CH,1976-08-01 00:00:00
+Switzerland,Weihnachten,Weihnachten,,CH,1976-12-25 00:00:00
+Switzerland,Karfreitag,Karfreitag,,CH,1977-04-08 00:00:00
+Switzerland,Ostern,Ostern,,CH,1977-04-10 00:00:00
+Switzerland,Ostermontag,Ostermontag,,CH,1977-04-11 00:00:00
+Switzerland,Pfingstmontag,Pfingstmontag,,CH,1977-05-30 00:00:00
+Switzerland,Weihnachten,Weihnachten,,CH,1977-12-25 00:00:00
+Switzerland,Neujahrestag,Neujahrestag,,CH,1970-01-01 00:00:00
+Switzerland,Neujahrestag,Neujahrestag,true,CH,1972-01-01 00:00:00
+Switzerland,Neujahrestag,Neujahrestag,,CH,1973-01-01 00:00:00
+Switzerland,Neujahrestag,Neujahrestag,,CH,1974-01-01 00:00:00
+Switzerland,Neujahrestag,Neujahrestag,,CH,1975-01-01 00:00:00
+Switzerland,Neujahrestag,Neujahrestag,,CH,1976-01-01 00:00:00
+Switzerland,Neujahrestag,Neujahrestag,true,CH,1977-01-01 00:00:00
+Switzerland,Neujahrestag,Neujahrestag,,CH,1978-01-01 00:00:00
+Switzerland,Pfingsten,Pfingsten,,CH,1970-05-17 00:00:00
+Switzerland,Pfingsten,Pfingsten,,CH,1971-05-30 00:00:00
+Switzerland,Pfingsten,Pfingsten,,CH,1972-05-21 00:00:00
+Switzerland,Pfingsten,Pfingsten,,CH,1973-06-10 00:00:00
+Switzerland,Pfingsten,Pfingsten,,CH,1974-06-02 00:00:00
+Switzerland,Pfingsten,Pfingsten,,CH,1975-05-18 00:00:00
+Switzerland,Pfingsten,Pfingsten,,CH,1976-06-06 00:00:00
+Switzerland,Pfingsten,Pfingsten,,CH,1977-05-29 00:00:00
+Switzerland,Auffahrt,Auffahrt,,CH,1970-05-07 00:00:00
+Switzerland,Auffahrt,Auffahrt,,CH,1971-05-20 00:00:00
+Switzerland,Auffahrt,Auffahrt,,CH,1972-05-11 00:00:00
+Switzerland,Auffahrt,Auffahrt,,CH,1973-05-31 00:00:00
+Switzerland,Auffahrt,Auffahrt,,CH,1974-05-23 00:00:00
+Switzerland,Auffahrt,Auffahrt,,CH,1975-05-08 00:00:00
+Switzerland,Auffahrt,Auffahrt,,CH,1976-05-27 00:00:00
+Switzerland,Auffahrt,Auffahrt,,CH,1977-05-19 00:00:00
+Netherlands,Koninginnedag,Koninginnedag,,NL,1970-04-30 00:00:00
+Netherlands,Koninginnedag,Koninginnedag,,NL,1971-04-30 00:00:00
+Netherlands,Koninginnedag,Koninginnedag,,NL,1972-05-01 00:00:00
+Netherlands,Koninginnedag,Koninginnedag,,NL,1973-04-30 00:00:00
+Netherlands,Koninginnedag,Koninginnedag,,NL,1974-04-30 00:00:00
+Netherlands,Koninginnedag,Koninginnedag,,NL,1975-04-30 00:00:00
+Netherlands,Koninginnedag,Koninginnedag,,NL,1976-04-30 00:00:00
+Netherlands,Koninginnedag,Koninginnedag,,NL,1977-04-30 00:00:00
+Netherlands,Nieuwjaarsdag,Nieuwjaarsdag,true,NL,1970-01-01 00:00:00
+Netherlands,Goede Vrijdag,Goede Vrijdag,,NL,1970-03-27 00:00:00
+Netherlands,Eerste paasdag,Eerste paasdag,,NL,1970-03-29 00:00:00
+Netherlands,Hemelvaart,Hemelvaart,,NL,1970-05-07 00:00:00
+Netherlands,Tweede Pinksterdag,Tweede Pinksterdag,,NL,1970-05-18 00:00:00
+Netherlands,Eerste Kerstdag,Eerste Kerstdag,true,NL,1970-12-25 00:00:00
+Netherlands,Goede Vrijdag,Goede Vrijdag,,NL,1971-04-09 00:00:00
+Netherlands,Eerste paasdag,Eerste paasdag,,NL,1971-04-11 00:00:00
+Netherlands,Tweede paasdag,Tweede paasdag,,NL,1971-04-12 00:00:00
+Netherlands,Hemelvaart,Hemelvaart,,NL,1971-05-20 00:00:00
+Netherlands,Eerste Pinksterdag,Eerste Pinksterdag,true,NL,1971-05-30 00:00:00
+Netherlands,Tweede Pinksterdag,Tweede Pinksterdag,,NL,1971-05-31 00:00:00
+Netherlands,Eerste paasdag,Eerste paasdag,,NL,1972-04-02 00:00:00
